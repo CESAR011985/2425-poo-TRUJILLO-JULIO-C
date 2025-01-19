@@ -1,4 +1,4 @@
-# Definimos la clase base "Persona"
+#  clase base "Persona"
 class Persona:
     """
     Clase base que representa a una persona.
