@@ -56,6 +56,6 @@ if __name__ == "__main__":
     print("-" * 30)
 
     # Crear una instancia de la clase derivada
-    gerente1 = Gerente("Rouse", 400, "Ventas")
+    gerente1 = Gerente("Rouse", 480, "Ventas")
     gerente1.mostrar_informacion()
     mostrar_bono(gerente1)
