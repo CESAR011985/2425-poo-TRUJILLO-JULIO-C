@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab44120f-1ad6-44b1-a019-2b832adda6bc" name="Changes" comment="semana 6">
+      <change beforePath="$PROJECT_DIR$/Unidad 1/semana 6/Aplicación de Conceptos de POO en Python2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 1/semana 6/Aplicación de Conceptos de POO en Python2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="wrnunezz &lt;wr.nunezz@uea.edu.ec&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CESAR011985&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/wrnunezz/2425---PROGRAMACION-ORIENTADA-A-OBJETOS----UEA-L-UFB-030.git&quot;,
+    &quot;accountId&quot;: &quot;0ab079ae-e055-4b2e-a1e7-9c173bc5b40f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2puvfuwqoWxNjHemLO61X0BmVjR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1.2.1. Ejemplo Tecnicas de Programacion.executor": "Run",
+    "Python.Aplicación de Conceptos de POO en Python.executor": "Run",
+    "Python.Aplicación de Conceptos de POO en Python2.executor": "Run",
+    "Python.Programación Orientada a Objetos.executor": "Run",
+    "Python.Programación Tradicional.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Jcyrm/PycharmProjects/2425---PROGRAMACION-ORIENTADA-A-OBJETOS----UEA-L-UFB-031/.idea/semana 3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jcyrm\PycharmProjects\2425---PROGRAMACION-ORIENTADA-A-OBJETOS----UEA-L-UFB-031\.idea\semana 3" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
+        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab44120f-1ad6-44b1-a019-2b832adda6bc" name="Changes" comment="" />
+      <created>1733628881452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733628881452</updated>
+      <workItem from="1733628882609" duration="1061000" />
+      <workItem from="1734167922600" duration="484000" />
+      <workItem from="1734169778208" duration="1661000" />
+      <workItem from="1734748950380" duration="76000" />
+      <workItem from="1736744198541" duration="641000" />
+      <workItem from="1737302004319" duration="8205000" />
+    </task>
+    <task id="LOCAL-00001" summary="Semana 02">
+      <option name="closed" value="true" />
+      <created>1733628936618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733628936618</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Semana 02">
+      <option name="closed" value="true" />
+      <created>1733629033953</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733629033953</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Semana 02">
+      <option name="closed" value="true" />
+      <created>1733629571385</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733629571385</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Semana 02">
+      <option name="closed" value="true" />
+      <created>1733629583859</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733629583859</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Semana 02">
+      <option name="closed" value="true" />
+      <created>1734169846908</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734169846908</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Semana 02">
+      <option name="closed" value="true" />
+      <created>1734169853989</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734169853989</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Semana 02">
+      <option name="closed" value="true" />
+      <created>1734169930293</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734169930293</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Semana 03">
+      <option name="closed" value="true" />
+      <created>1734170043475</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1734170043475</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Semana 03">
+      <option name="closed" value="true" />
+      <created>1734170052893</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1734170052893</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Semana 03">
+      <option name="closed" value="true" />
+      <created>1734170223930</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1734170223930</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Semana 03">
+      <option name="closed" value="true" />
+      <created>1734170231879</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1734170231879</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Semana 03">
+      <option name="closed" value="true" />
+      <created>1734170480776</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1734170480776</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Semana 03">
+      <option name="closed" value="true" />
+      <created>1734170491840</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1734170491840</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Semana 03">
+      <option name="closed" value="true" />
+      <created>1737310446301</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1737310446301</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Semana 03">
+      <option name="closed" value="true" />
+      <created>1737310498897</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1737310498897</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Semana 06">
+      <option name="closed" value="true" />
+      <created>1737310606778</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1737310606778</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'github1/main'">
+      <option name="closed" value="true" />
+      <created>1737313163379</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1737313163379</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'github1/main'">
+      <option name="closed" value="true" />
+      <created>1737313168383</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1737313168383</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'github1/main'">
+      <option name="closed" value="true" />
+      <created>1737313199029</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1737313199029</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Merge remote-tracking branch 'github1/main'">
+      <option name="closed" value="true" />
+      <created>1737313368176</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1737313368176</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Merge remote-tracking branch 'github1/main'">
+      <option name="closed" value="true" />
+      <created>1737313380432</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1737313380432</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Aplicación de Conceptos de POO en Python">
+      <option name="closed" value="true" />
+      <created>1737313423251</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1737313423251</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Aplicación de Conceptos de POO en Python">
+      <option name="closed" value="true" />
+      <created>1737313438425</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1737313438425</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Aplicación de Conceptos de POO en Python">
+      <option name="closed" value="true" />
+      <created>1737313459720</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1737313459720</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Aplicación de Conceptos de POO en Python">
+      <option name="closed" value="true" />
+      <created>1737313468706</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1737313468706</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Aplicación de Conceptos de POO en Python">
+      <option name="closed" value="true" />
+      <created>1737313490390</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1737313490390</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Aplicación de Conceptos de POO en Python">
+      <option name="closed" value="true" />
+      <created>1737313500753</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1737313500753</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Merge remote-tracking branch 'github1/main'">
+      <option name="closed" value="true" />
+      <created>1737313542185</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1737313542185</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Merge remote-tracking branch 'github1/main'">
+      <option name="closed" value="true" />
+      <created>1737313556305</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1737313556305</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Merge remote-tracking branch 'github1/main'">
+      <option name="closed" value="true" />
+      <created>1737313571974</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1737313571974</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Merge remote-tracking branch 'github1/main'">
+      <option name="closed" value="true" />
+      <created>1737313584535</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1737313584535</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Aplicación de Conceptos de POO en Python">
+      <option name="closed" value="true" />
+      <created>1737313597392</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1737313597392</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Aplicación de Conceptos de POO en Python">
+      <option name="closed" value="true" />
+      <created>1737315488458</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1737315488458</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Aplicación de Conceptos de POO en Python">
+      <option name="closed" value="true" />
+      <created>1737315504346</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1737315504346</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Aplicación de Conceptos de POO en Python">
+      <option name="closed" value="true" />
+      <created>1737315543817</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1737315543817</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Aplicación de Conceptos de POO en Python">
+      <option name="closed" value="true" />
+      <created>1737315566013</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1737315566013</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Aplicación de Conceptos de POO en Python">
+      <option name="closed" value="true" />
+      <created>1737315578993</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1737315578993</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Aplicación de Conceptos de POO en Python">
+      <option name="closed" value="true" />
+      <created>1737315611983</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1737315611983</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Aplicación de Conceptos de POO en Python">
+      <option name="closed" value="true" />
+      <created>1737315622280</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1737315622280</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Aplicación de Conceptos de POO en Python">
+      <option name="closed" value="true" />
+      <created>1737315698258</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1737315698258</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Aplicación de Conceptos de POO en Python">
+      <option name="closed" value="true" />
+      <created>1737315710482</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1737315710482</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Aplicación de Conceptos de POO en Python">
+      <option name="closed" value="true" />
+      <created>1737315844114</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1737315844114</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Merge remote-tracking branch 'github1/main'">
+      <option name="closed" value="true" />
+      <created>1737315911413</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1737315911413</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Merge remote-tracking branch 'github1/main'">
+      <option name="closed" value="true" />
+      <created>1737315922108</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1737315922108</updated>
+    </task>
+    <task id="LOCAL-00045" summary="semana 6">
+      <option name="closed" value="true" />
+      <created>1737316053272</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1737316053272</updated>
+    </task>
+    <task id="LOCAL-00046" summary="semana 6">
+      <option name="closed" value="true" />
+      <created>1737316059332</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1737316059332</updated>
+    </task>
+    <task id="LOCAL-00047" summary="semana 6">
+      <option name="closed" value="true" />
+      <created>1737316194549</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1737316194549</updated>
+    </task>
+    <task id="LOCAL-00048" summary="semana 6">
+      <option name="closed" value="true" />
+      <created>1737316204732</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1737316204732</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Semana 02" />
+    <MESSAGE value="Semana 03" />
+    <MESSAGE value="Semana 06" />
+    <MESSAGE value="Aplicación de Conceptos de POO en Python" />
+    <MESSAGE value="Merge remote-tracking branch 'github1/main'" />
+    <MESSAGE value="semana 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="semana 6" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$1_2_1__Ejemplo_Tecnicas_de_Programacion.coverage" NAME="1.2.1. Ejemplo Tecnicas de Programacion Coverage Results" MODIFIED="1733629927875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/1.2. Tecnicas de Programacion" />
+    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Programación_Tradicional.coverage" NAME="Programación Tradicional Coverage Results" MODIFIED="1734170454618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/1.2. Tecnicas de Programacion/Programación Tradicional y POO en Python" />
+    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Aplicación_de_Conceptos_de_POO_en_Python.coverage" NAME="Aplicación de Conceptos de POO en Python Coverage Results" MODIFIED="1737315886618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/semana 6" />
+    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Programación_Orientada_a_Objetos.coverage" NAME="Programación Orientada a Objetos Coverage Results" MODIFIED="1734171252574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/1.2. Tecnicas de Programacion/Programación Tradicional y POO en Python" />
+    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Aplicación_de_Conceptos_de_POO_en_Python2.coverage" NAME="Aplicación de Conceptos de POO en Python2 Coverage Results" MODIFIED="1737316167548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/semana 6" />
+  </component>
+</project>
