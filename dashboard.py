@@ -15,6 +15,11 @@ def mostrar_menu():
     ruta_base = os.path.dirname(__file__)
     opciones = {
         '1': 'semana 2/1.2.1. Ejemplo Tecnicas de Programacion',
+        '2': 'Programación Tradicional y POO en Python/Programación Orientada a Objetos',
+        '3': 'Programación Tradicional y POO en Python 2/Programación Tradicional',
+        '4': 'semana 6/Aplicación de Conceptos de POO en Python',
+        '5': 'semana 7/constructores ',
+
         # Agrega aquí el resto de las rutas de los scripts
     }
     while True:
