@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab44120f-1ad6-44b1-a019-2b832adda6bc" name="Changes" comment="semana 8">
-      <change afterPath="$PROJECT_DIR$/hilos/hilos y procesos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unidad 3/estructura de datos" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unidad 3/inventarios simple .py" afterDir="false" />
+    <list default="true" id="ab44120f-1ad6-44b1-a019-2b832adda6bc" name="Changes" comment="semana 9">
+      <change afterPath="$PROJECT_DIR$/unidad 3/Sistema de Gestión de Inventarios Mejorado.PY.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +56,7 @@
     "Python.Aplicación de Conceptos de POO en Python2.executor": "Run",
     "Python.Programación Orientada a Objetos.executor": "Run",
     "Python.Programación Tradicional.executor": "Run",
+    "Python.Sistema de Gestión de Inventarios Mejorado.PY.executor": "Run",
     "Python.constructores .executor": "Run",
     "Python.dashboard.executor": "Run",
     "Python.hilos y procesos.executor": "Run",
@@ -104,15 +103,8 @@
       <workItem from="1737939070710" duration="3381000" />
       <workItem from="1738299595921" duration="5555000" />
       <workItem from="1738550122523" duration="5030000" />
-      <workItem from="1739748257661" duration="3055000" />
-    </task>
-    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'github1/main'">
-      <option name="closed" value="true" />
-      <created>1737313163379</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1737313163379</updated>
+      <workItem from="1739748257661" duration="3865000" />
+      <workItem from="1740324332452" duration="3366000" />
     </task>
     <task id="LOCAL-00018" summary="Merge remote-tracking branch 'github1/main'">
       <option name="closed" value="true" />
@@ -498,7 +490,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738552272568</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="semana 9">
+      <option name="closed" value="true" />
+      <created>1739754860779</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1739754860779</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -515,15 +515,17 @@
     <MESSAGE value="Merge remote-tracking branch 'github1/main'" />
     <MESSAGE value="semana 2" />
     <MESSAGE value="semana 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="semana 8" />
+    <MESSAGE value="semana 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="semana 9" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$1_2_1__Ejemplo_Tecnicas_de_Programacion.coverage" NAME="1.2.1. Ejemplo Tecnicas de Programacion Coverage Results" MODIFIED="1738303604374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/semana 2" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Programación_Tradicional.coverage" NAME="Programación Tradicional Coverage Results" MODIFIED="1737316667313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/1.2. Tecnicas de Programacion/Programación Tradicional y POO en Python" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Aplicación_de_Conceptos_de_POO_en_Python.coverage" NAME="Aplicación de Conceptos de POO en Python Coverage Results" MODIFIED="1737316730149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/semana 6" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Programación_Orientada_a_Objetos.coverage" NAME="Programación Orientada a Objetos Coverage Results" MODIFIED="1734171252574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/1.2. Tecnicas de Programacion/Programación Tradicional y POO en Python" />
-    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$inventarios_simple_.coverage" NAME="inventarios simple  Coverage Results" MODIFIED="1739754814044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unidad 3" />
+    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$inventarios_simple_.coverage" NAME="inventarios simple  Coverage Results" MODIFIED="1740360970799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unidad 3" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$dashboard.coverage" NAME="dashboard Coverage Results" MODIFIED="1738552100436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Sistema_de_Gestión_de_Inventarios_Mejorado_PY.coverage" NAME="Sistema de Gestión de Inventarios Mejorado.PY Coverage Results" MODIFIED="1740361918364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unidad 3" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Aplicación_de_Conceptos_de_POO_en_Python2.coverage" NAME="Aplicación de Conceptos de POO en Python2 Coverage Results" MODIFIED="1737316736008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/semana 6" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$hilos_y_procesos.coverage" NAME="hilos y procesos Coverage Results" MODIFIED="1738555897148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hilos" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$constructores_.coverage" NAME="constructores  Coverage Results" MODIFIED="1737942270125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/1.2. Tecnicas de Programacion/semana 7" />
