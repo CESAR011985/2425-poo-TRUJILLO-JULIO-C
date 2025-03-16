@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab44120f-1ad6-44b1-a019-2b832adda6bc" name="Changes" comment="semana 13" />
+    <list default="true" id="ab44120f-1ad6-44b1-a019-2b832adda6bc" name="Changes" comment="Creación de una Aplicación GUI Básica" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +24,6 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -46,31 +45,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1.2.1. Ejemplo Tecnicas de Programacion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aplicación de Conceptos de POO en Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aplicación de Conceptos de POO en Python2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programación Orientada a Objetos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programación Tradicional.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sistema Avanzado de Gestión de Inventario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sistema de Gestión de Biblioteca Digital.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sistema de Gestión de Inventarios Mejorado.PY.executor&quot;: &quot;Run&quot;,
-    &quot;Python.constructores .executor&quot;: &quot;Run&quot;,
-    &quot;Python.dashboard.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hilos y procesos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.inventarios simple .executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jcyrm/PycharmProjects/2425---PROGRAMACION-ORIENTADA-A-OBJETOS----UEA-L-UFB-031/Unidad 1/semana 2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1.2.1. Ejemplo Tecnicas de Programacion.executor": "Run",
+    "Python.Aplicación de Conceptos de POO en Python.executor": "Run",
+    "Python.Aplicación de Conceptos de POO en Python2.executor": "Run",
+    "Python.Creación de una Aplicación GUI Básica.executor": "Run",
+    "Python.Programación Orientada a Objetos.executor": "Run",
+    "Python.Programación Tradicional.executor": "Run",
+    "Python.Sistema Avanzado de Gestión de Inventario.executor": "Run",
+    "Python.Sistema de Gestión de Biblioteca Digital.executor": "Run",
+    "Python.Sistema de Gestión de Inventarios Mejorado.PY.executor": "Run",
+    "Python.constructores .executor": "Run",
+    "Python.dashboard.executor": "Run",
+    "Python.hilos y procesos.executor": "Run",
+    "Python.inventarios simple .executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Jcyrm/PycharmProjects/2425---PROGRAMACION-ORIENTADA-A-OBJETOS----UEA-L-UFB-031/Unidad 1/semana 2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Jcyrm\PycharmProjects\2425---PROGRAMACION-ORIENTADA-A-OBJETOS----UEA-L-UFB-031\Unidad 1\semana 2" />
@@ -105,38 +105,6 @@
       <workItem from="1739748257661" duration="3865000" />
       <workItem from="1740324332452" duration="3366000" />
       <workItem from="1740963014588" duration="4068000" />
-    </task>
-    <task id="LOCAL-00022" summary="Aplicación de Conceptos de POO en Python">
-      <option name="closed" value="true" />
-      <created>1737313423251</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1737313423251</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Aplicación de Conceptos de POO en Python">
-      <option name="closed" value="true" />
-      <created>1737313438425</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1737313438425</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Aplicación de Conceptos de POO en Python">
-      <option name="closed" value="true" />
-      <created>1737313459720</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1737313459720</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Aplicación de Conceptos de POO en Python">
-      <option name="closed" value="true" />
-      <created>1737313468706</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1737313468706</updated>
     </task>
     <task id="LOCAL-00026" summary="Aplicación de Conceptos de POO en Python">
       <option name="closed" value="true" />
@@ -498,7 +466,39 @@
       <option name="project" value="LOCAL" />
       <updated>1742152949168</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="semana 13">
+      <option name="closed" value="true" />
+      <created>1742153179706</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1742153179706</updated>
+    </task>
+    <task id="LOCAL-00072" summary="semana 13">
+      <option name="closed" value="true" />
+      <created>1742153206461</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1742153206461</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Merge remote-tracking branch 'github1/main'">
+      <option name="closed" value="true" />
+      <created>1742153271977</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1742153271977</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Creación de una Aplicación GUI Básica">
+      <option name="closed" value="true" />
+      <created>1742153391949</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1742153391949</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,14 +512,15 @@
     <MESSAGE value="Aplicación de Conceptos de POO en Python" />
     <MESSAGE value="seman 6" />
     <MESSAGE value="semana 7" />
-    <MESSAGE value="Merge remote-tracking branch 'github1/main'" />
     <MESSAGE value="semana 2" />
     <MESSAGE value="semana 8" />
     <MESSAGE value="semana 9" />
     <MESSAGE value="semana 10" />
     <MESSAGE value="Merge remote-tracking branch 'github1/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="semana 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="semana 13" />
+    <MESSAGE value="Merge remote-tracking branch 'github1/main'" />
+    <MESSAGE value="Creación de una Aplicación GUI Básica" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creación de una Aplicación GUI Básica" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Programación_Tradicional.coverage" NAME="Programación Tradicional Coverage Results" MODIFIED="1737316667313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/1.2. Tecnicas de Programacion/Programación Tradicional y POO en Python" />
@@ -532,7 +533,7 @@
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Aplicación_de_Conceptos_de_POO_en_Python.coverage" NAME="Aplicación de Conceptos de POO en Python Coverage Results" MODIFIED="1737316730149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/semana 6" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Programación_Orientada_a_Objetos.coverage" NAME="Programación Orientada a Objetos Coverage Results" MODIFIED="1734171252574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/1.2. Tecnicas de Programacion/Programación Tradicional y POO en Python" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Sistema_de_Gestión_de_Biblioteca_Digital.coverage" NAME="Sistema de Gestión de Biblioteca Digital Coverage Results" MODIFIED="1742103908996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 12" />
-    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Creación_de_una_Aplicación_GUI_Básica.coverage" NAME="Creación de una Aplicación GUI Básica Coverage Results" MODIFIED="1742152815755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 13" />
+    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Creación_de_una_Aplicación_GUI_Básica.coverage" NAME="Creación de una Aplicación GUI Básica Coverage Results" MODIFIED="1742153145165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 13" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$hilos_y_procesos.coverage" NAME="hilos y procesos Coverage Results" MODIFIED="1738555897148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hilos" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$constructores_.coverage" NAME="constructores  Coverage Results" MODIFIED="1737942270125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/1.2. Tecnicas de Programacion/semana 7" />
   </component>
