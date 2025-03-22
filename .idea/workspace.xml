@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab44120f-1ad6-44b1-a019-2b832adda6bc" name="Changes" comment="Creación de una Aplicación GUI Básica" />
+    <list default="true" id="ab44120f-1ad6-44b1-a019-2b832adda6bc" name="Changes" comment="Creación de una Aplicación GUI Básica">
+      <change afterPath="$PROJECT_DIR$/semana 14/Creación de una Aplicación de Agenda Personal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +54,7 @@
     "Python.Aplicación de Conceptos de POO en Python.executor": "Run",
     "Python.Aplicación de Conceptos de POO en Python2.executor": "Run",
     "Python.Creación de una Aplicación GUI Básica.executor": "Run",
+    "Python.Creación de una Aplicación de Agenda Personal.executor": "Run",
     "Python.Programación Orientada a Objetos.executor": "Run",
     "Python.Programación Tradicional.executor": "Run",
     "Python.Sistema Avanzado de Gestión de Inventario.executor": "Run",
@@ -105,22 +109,7 @@
       <workItem from="1739748257661" duration="3865000" />
       <workItem from="1740324332452" duration="3366000" />
       <workItem from="1740963014588" duration="4068000" />
-    </task>
-    <task id="LOCAL-00026" summary="Aplicación de Conceptos de POO en Python">
-      <option name="closed" value="true" />
-      <created>1737313490390</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1737313490390</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Aplicación de Conceptos de POO en Python">
-      <option name="closed" value="true" />
-      <created>1737313500753</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1737313500753</updated>
+      <workItem from="1742607384247" duration="6362000" />
     </task>
     <task id="LOCAL-00028" summary="Merge remote-tracking branch 'github1/main'">
       <option name="closed" value="true" />
@@ -498,11 +487,38 @@
       <option name="project" value="LOCAL" />
       <updated>1742153391949</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Creación de una Aplicación GUI Básica">
+      <option name="closed" value="true" />
+      <created>1742153566954</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1742153566954</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Creación de una Aplicación GUI Básica">
+      <option name="closed" value="true" />
+      <created>1742153603582</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1742153603582</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Semana 02" />
@@ -533,7 +549,8 @@
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Aplicación_de_Conceptos_de_POO_en_Python.coverage" NAME="Aplicación de Conceptos de POO en Python Coverage Results" MODIFIED="1737316730149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/semana 6" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Programación_Orientada_a_Objetos.coverage" NAME="Programación Orientada a Objetos Coverage Results" MODIFIED="1734171252574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/1.2. Tecnicas de Programacion/Programación Tradicional y POO en Python" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Sistema_de_Gestión_de_Biblioteca_Digital.coverage" NAME="Sistema de Gestión de Biblioteca Digital Coverage Results" MODIFIED="1742103908996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 12" />
-    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Creación_de_una_Aplicación_GUI_Básica.coverage" NAME="Creación de una Aplicación GUI Básica Coverage Results" MODIFIED="1742153145165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 13" />
+    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Creación_de_una_Aplicación_GUI_Básica.coverage" NAME="Creación de una Aplicación GUI Básica Coverage Results" MODIFIED="1742153897674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 13" />
+    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Creación_de_una_Aplicación_de_Agenda_Personal.coverage" NAME="Creación de una Aplicación de Agenda Personal Coverage Results" MODIFIED="1742627679534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 14" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$hilos_y_procesos.coverage" NAME="hilos y procesos Coverage Results" MODIFIED="1738555897148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hilos" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$constructores_.coverage" NAME="constructores  Coverage Results" MODIFIED="1737942270125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/1.2. Tecnicas de Programacion/semana 7" />
   </component>
