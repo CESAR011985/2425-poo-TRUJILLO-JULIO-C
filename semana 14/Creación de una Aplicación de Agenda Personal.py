@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import ttk, messagebox
+from tkinter import ttk, messagebox, Menu, scrolledtext
 from tkcalendar import DateEntry  # Necesitarás instalar tkcalendar: pip install tkcalendar
 
 class AgendaPersonal:
