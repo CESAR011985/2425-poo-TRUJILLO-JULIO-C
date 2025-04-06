@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab44120f-1ad6-44b1-a019-2b832adda6bc" name="Changes" comment="Creación de una Aplicación GUI Básica">
-      <change afterPath="$PROJECT_DIR$/semana 15/Aplicación GUI de Lista de Tareas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semana 16/eventos clic botony teclado.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,35 +48,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1.2.1. Ejemplo Tecnicas de Programacion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aplicación GUI de Lista de Tareas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aplicación de Conceptos de POO en Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aplicación de Conceptos de POO en Python2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Creación de una Aplicación GUI Básica.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Creación de una Aplicación de Agenda Personal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programación Orientada a Objetos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programación Tradicional.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SEMANA 14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sistema Avanzado de Gestión de Inventario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sistema de Gestión de Biblioteca Digital.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sistema de Gestión de Inventarios Mejorado.PY.executor&quot;: &quot;Run&quot;,
-    &quot;Python.constructores .executor&quot;: &quot;Run&quot;,
-    &quot;Python.dashboard.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hilos y procesos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.inventarios simple .executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jcyrm/PycharmProjects/2425---PROGRAMACION-ORIENTADA-A-OBJETOS----UEA-L-UFB-031/Unidad 1/semana 2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1.2.1. Ejemplo Tecnicas de Programacion.executor": "Run",
+    "Python.Aplicación GUI de Lista de Tareas.executor": "Run",
+    "Python.Aplicación de Conceptos de POO en Python.executor": "Run",
+    "Python.Aplicación de Conceptos de POO en Python2.executor": "Run",
+    "Python.Creación de una Aplicación GUI Básica.executor": "Run",
+    "Python.Creación de una Aplicación de Agenda Personal.executor": "Run",
+    "Python.Programación Orientada a Objetos.executor": "Run",
+    "Python.Programación Tradicional.executor": "Run",
+    "Python.SEMANA 14.executor": "Run",
+    "Python.Sistema Avanzado de Gestión de Inventario.executor": "Run",
+    "Python.Sistema de Gestión de Biblioteca Digital.executor": "Run",
+    "Python.Sistema de Gestión de Inventarios Mejorado.PY.executor": "Run",
+    "Python.constructores .executor": "Run",
+    "Python.dashboard.executor": "Run",
+    "Python.eventos clic botony teclado.executor": "Run",
+    "Python.hilos y procesos.executor": "Run",
+    "Python.inventarios simple .executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Jcyrm/PycharmProjects/2425---PROGRAMACION-ORIENTADA-A-OBJETOS----UEA-L-UFB-031/Unidad 1/semana 2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Jcyrm\PycharmProjects\2425---PROGRAMACION-ORIENTADA-A-OBJETOS----UEA-L-UFB-031\Unidad 1\semana 2" />
@@ -114,15 +115,8 @@
       <workItem from="1742607384247" duration="6639000" />
       <workItem from="1742711857553" duration="2359000" />
       <workItem from="1743296292695" duration="1514000" />
-      <workItem from="1743379273140" duration="2456000" />
-    </task>
-    <task id="LOCAL-00030" summary="Merge remote-tracking branch 'github1/main'">
-      <option name="closed" value="true" />
-      <created>1737313571974</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1737313571974</updated>
+      <workItem from="1743379273140" duration="3283000" />
+      <workItem from="1743897871969" duration="5120000" />
     </task>
     <task id="LOCAL-00031" summary="Merge remote-tracking branch 'github1/main'">
       <option name="closed" value="true" />
@@ -508,7 +502,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742713866418</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Creación de una Aplicación GUI Básica">
+      <option name="closed" value="true" />
+      <created>1743383985793</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1743383985793</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,11 +546,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="Creación de una Aplicación GUI Básica" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Aplicación_GUI_de_Lista_de_Tareas.coverage" NAME="Aplicación GUI de Lista de Tareas Coverage Results" MODIFIED="1743383948397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 15" />
+    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Aplicación_GUI_de_Lista_de_Tareas.coverage" NAME="Aplicación GUI de Lista de Tareas Coverage Results" MODIFIED="1743898018235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 15" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Programación_Tradicional.coverage" NAME="Programación Tradicional Coverage Results" MODIFIED="1737316667313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/1.2. Tecnicas de Programacion/Programación Tradicional y POO en Python" />
+    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$eventos_clic_botony_teclado.coverage" NAME="eventos clic botony teclado Coverage Results" MODIFIED="1743905359385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 16" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$inventarios_simple_.coverage" NAME="inventarios simple  Coverage Results" MODIFIED="1740360970799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unidad 3" />
-    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$dashboard.coverage" NAME="dashboard Coverage Results" MODIFIED="1738552100436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Sistema_de_Gestión_de_Inventarios_Mejorado_PY.coverage" NAME="Sistema de Gestión de Inventarios Mejorado.PY Coverage Results" MODIFIED="1740963547554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unidad 3" />
+    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$dashboard.coverage" NAME="dashboard Coverage Results" MODIFIED="1738552100436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Aplicación_de_Conceptos_de_POO_en_Python2.coverage" NAME="Aplicación de Conceptos de POO en Python2 Coverage Results" MODIFIED="1737316736008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/semana 6" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$1_2_1__Ejemplo_Tecnicas_de_Programacion.coverage" NAME="1.2.1. Ejemplo Tecnicas de Programacion Coverage Results" MODIFIED="1738303604374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/semana 2" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Sistema_Avanzado_de_Gestión_de_Inventario.coverage" NAME="Sistema Avanzado de Gestión de Inventario Coverage Results" MODIFIED="1741578818080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 11" />
