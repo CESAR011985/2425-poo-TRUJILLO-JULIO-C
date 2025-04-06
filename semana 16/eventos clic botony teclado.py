@@ -39,7 +39,7 @@ root.title("Gestor de Tareas")
 root.geometry("400x400")
 
 # Título del proyecto, clase y nombre
-header = tk.Label(root, text="Aplicación GUI para Gestión de Tareas\nsemana 16 - Última clase del Semestre\nJulio Cesar Trujillo",
+header = tk.Label(root, text="Aplicación GUI para Gestión de Tareas\n16 - Última clase del Semestre\nJulio Cesar Trujillo",
                   font=("Arial", 16), justify=tk.CENTER)
 header.pack(pady=10)
 

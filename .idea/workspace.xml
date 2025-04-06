@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab44120f-1ad6-44b1-a019-2b832adda6bc" name="Changes" comment="Creación de una Aplicación GUI Básica">
-      <change afterPath="$PROJECT_DIR$/semana 16/eventos clic botony teclado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semana 16/eventos de teclado y mouse.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana 16/eventos clic botony teclado.py" beforeDir="false" afterPath="$PROJECT_DIR$/semana 16/eventos clic botony teclado.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,7 @@
     "Python.constructores .executor": "Run",
     "Python.dashboard.executor": "Run",
     "Python.eventos clic botony teclado.executor": "Run",
+    "Python.eventos de teclado y mouse.executor": "Run",
     "Python.hilos y procesos.executor": "Run",
     "Python.inventarios simple .executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -116,15 +118,7 @@
       <workItem from="1742711857553" duration="2359000" />
       <workItem from="1743296292695" duration="1514000" />
       <workItem from="1743379273140" duration="3283000" />
-      <workItem from="1743897871969" duration="5120000" />
-    </task>
-    <task id="LOCAL-00031" summary="Merge remote-tracking branch 'github1/main'">
-      <option name="closed" value="true" />
-      <created>1737313584535</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1737313584535</updated>
+      <workItem from="1743897871969" duration="7899000" />
     </task>
     <task id="LOCAL-00032" summary="Aplicación de Conceptos de POO en Python">
       <option name="closed" value="true" />
@@ -510,7 +504,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743383985793</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Creación de una Aplicación GUI Básica">
+      <option name="closed" value="true" />
+      <created>1743905503153</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1743905503153</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -548,13 +550,14 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Aplicación_GUI_de_Lista_de_Tareas.coverage" NAME="Aplicación GUI de Lista de Tareas Coverage Results" MODIFIED="1743898018235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 15" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Programación_Tradicional.coverage" NAME="Programación Tradicional Coverage Results" MODIFIED="1737316667313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/1.2. Tecnicas de Programacion/Programación Tradicional y POO en Python" />
-    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$eventos_clic_botony_teclado.coverage" NAME="eventos clic botony teclado Coverage Results" MODIFIED="1743905359385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 16" />
+    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$eventos_clic_botony_teclado.coverage" NAME="eventos clic botony teclado Coverage Results" MODIFIED="1743907424667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 16" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$inventarios_simple_.coverage" NAME="inventarios simple  Coverage Results" MODIFIED="1740360970799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unidad 3" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Sistema_de_Gestión_de_Inventarios_Mejorado_PY.coverage" NAME="Sistema de Gestión de Inventarios Mejorado.PY Coverage Results" MODIFIED="1740963547554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unidad 3" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$dashboard.coverage" NAME="dashboard Coverage Results" MODIFIED="1738552100436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Aplicación_de_Conceptos_de_POO_en_Python2.coverage" NAME="Aplicación de Conceptos de POO en Python2 Coverage Results" MODIFIED="1737316736008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/semana 6" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$1_2_1__Ejemplo_Tecnicas_de_Programacion.coverage" NAME="1.2.1. Ejemplo Tecnicas de Programacion Coverage Results" MODIFIED="1738303604374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/semana 2" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Sistema_Avanzado_de_Gestión_de_Inventario.coverage" NAME="Sistema Avanzado de Gestión de Inventario Coverage Results" MODIFIED="1741578818080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 11" />
+    <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$eventos_de_teclado_y_mouse.coverage" NAME="eventos de teclado y mouse Coverage Results" MODIFIED="1743909722318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 16" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Aplicación_de_Conceptos_de_POO_en_Python.coverage" NAME="Aplicación de Conceptos de POO en Python Coverage Results" MODIFIED="1737316730149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/semana 6" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Programación_Orientada_a_Objetos.coverage" NAME="Programación Orientada a Objetos Coverage Results" MODIFIED="1734171252574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/1.2. Tecnicas de Programacion/Programación Tradicional y POO en Python" />
     <SUITE FILE_PATH="coverage/2425___PROGRAMACION_ORIENTADA_A_OBJETOS____UEA_L_UFB_031$Sistema_de_Gestión_de_Biblioteca_Digital.coverage" NAME="Sistema de Gestión de Biblioteca Digital Coverage Results" MODIFIED="1742103908996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana 12" />
